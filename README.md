@@ -141,8 +141,8 @@ During this project I learned:
 
 Frontend Developer
 
-- LinkedIn: https://linkedin.com/in/your-profile
-- GitHub: https://github.com/your-username
+- LinkedIn: www.linkedin.com/in/rafiqul-islam-raj-9212403b0
+- GitHub: https://github.com/rafiqulislamraj58-design/MINI-HACK
 
 ---
 
